@@ -49,7 +49,7 @@ console.log("[+] END");
 
 # Question
 
-1. Make a MongoDB connetion to the [mongodb+srv://debi:<password>@demo-realm-app.oldhx.mongodb.net/?retryWrites=true&w=majority](mongodb+srv://debi:<password>@demo-realm-app.oldhx.mongodb.net/?retryWrites=true&w=majority) with Password _HZzRaT0O9fDhrIDj_
+1. Express: Make a MongoDB connetion to the [mongodb+srv://debi:<password>@demo-realm-app.oldhx.mongodb.net/?retryWrites=true&w=majority](mongodb+srv://debi:<password>@demo-realm-app.oldhx.mongodb.net/?retryWrites=true&w=majority) with Password _HZzRaT0O9fDhrIDj_
 
 2. Create a custom middleware to display request time for every request
 3. Perform Filteration of data
@@ -57,3 +57,6 @@ console.log("[+] END");
 5. apply CORS
 6. apply JWT auth
 7. apply Cross Site Scripting(XSS) Protection
+
+8. Nest
+   2.1. Setup a NEST application and create a CRUD based on use case(any example will work)
