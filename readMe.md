@@ -59,4 +59,4 @@ console.log("[+] END");
 7. apply Cross Site Scripting(XSS) Protection
 
 8. Nest
-   2.1. Setup a NEST application and create a CRUD based on use case(any example will work)
+   > 2.1. Setup a NEST application and create a CRUD based on use case(any example will work)
