@@ -3,13 +3,14 @@
 1. Event loop
 2. ES5, ES6 difference and it's operators
 3. prototypal Inheritance
-4. What are Promises, Microtask Queue, and states of it
-5. Create a program that can execute 3 timeouts synchronously
-6. Create a program that uses all concepts of OOPs with real-life examples
-7. commonJS and ES module system, show with example
-8. What is Server-side and Client-Side rendering
-9. Create a Quote Of The Day Application, use this [API Docs](https://quotes.rest) to get Quotes, and print today's quote in a File with proper format
-10. Create a function that can flatten any nested the array
+4. Why JS does not support multiple constructor
+5. What are Promises, Microtask Queue, and states of it
+6. Create a program that can execute 3 timeouts synchronously
+7. Create a program that uses all concepts of OOPs with real-life examples
+8. commonJS and ES module system, show with example
+9. What is Server-side and Client-Side rendering
+10. Create a Quote Of The Day Application, use this [API Docs](https://quotes.rest) to get Quotes, and print today's quote in a File with proper format
+11. Create a function that can flatten any nested the array
     example:
 
 ```
