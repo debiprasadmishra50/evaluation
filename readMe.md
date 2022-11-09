@@ -14,8 +14,9 @@
 
 1. Make a MongoDB connetion to the [mongodb+srv://debi:<password>@demo-realm-app.oldhx.mongodb.net/?retryWrites=true&w=majority](mongodb+srv://debi:<password>@demo-realm-app.oldhx.mongodb.net/?retryWrites=true&w=majority) with Password _HZzRaT0O9fDhrIDj_
 
-2. Perform Filteration of data
-3. apply rate limiter
-4. apply CORS
-5. apply JWT auth
-6.
+2. Create a custom middleware to display request time for every request
+3. Perform Filteration of data
+4. apply rate limiter
+5. apply CORS
+6. apply JWT auth
+7. apply Cross Site Scripting(XSS) Protection
