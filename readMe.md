@@ -16,6 +16,37 @@
     [[1,2,3],4,5,[6,7,[8,9]]] => [1,2,3,4,5,6,7,8,9]
 ```
 
+11. What are IIFE, give one example
+12. Find Outout
+
+```js
+console.log("[+] START");
+
+setTimeout(() => {
+  console.log("Outside timeout 1");
+}, 0);
+
+Promise.resolve("Promise resolved 1").then(console.log);
+
+async function run() {
+  setTimeout(() => {
+    console.log("Inside run Timeout 2");
+  }, 0);
+}
+
+(() => {
+  setTimeout(() => {
+    console.log("Inside IIFE Timeout 2");
+  }, 0);
+})();
+
+run();
+
+Promise.resolve("Promise resolved 2").then(console.log);
+
+console.log("[+] END");
+```
+
 # Question
 
 1. Make a MongoDB connetion to the [mongodb+srv://debi:<password>@demo-realm-app.oldhx.mongodb.net/?retryWrites=true&w=majority](mongodb+srv://debi:<password>@demo-realm-app.oldhx.mongodb.net/?retryWrites=true&w=majority) with Password _HZzRaT0O9fDhrIDj_
