@@ -8,7 +8,13 @@
 6. Create a program that uses all concepts of OOPs with real-life examples
 7. commonJS and ES module system, show with example
 8. What is Server-side and Client-Side rendering
-9.
+9. Create a Quote Of The Day Application, use this [API Docs](https://quotes.rest) to get Quotes, and print today's quote in a File with proper format
+10. Create a function that can flatten any nested the array
+    example:
+
+```
+    [[1,2,3],4,5,[6,7,[8,9]]] => [1,2,3,4,5,6,7,8,9]
+```
 
 # Question
 
