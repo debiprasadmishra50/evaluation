@@ -60,14 +60,13 @@ console.log(flatten(arr));
 ```
 
 12. Output
-    [+] START
-    [+] END
-    Promise resolved 1
-    Promise resolved 2
-    Outside timeout 1
-    Inside IIFE Timeout 2
-    Inside run Timeout 2
 
 ```
-
+[+] START
+[+] END
+Promise resolved 1
+Promise resolved 2
+Outside timeout 1
+Inside IIFE Timeout 2
+Inside run Timeout 2
 ```
