@@ -18,7 +18,7 @@
 ```
 
 11. What are IIFE, give one example
-12. Find Outout
+12. Find Output
 
 ```js
 console.log("[+] START");
