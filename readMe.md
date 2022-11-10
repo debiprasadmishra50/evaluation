@@ -18,7 +18,8 @@
 ```
 
 11. What are IIFE, give one example
-12. Find Output
+12. Count frequency of each consonant present in a random string
+13. Find Output
 
 ```js
 console.log("[+] START");
