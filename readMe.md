@@ -59,6 +59,23 @@ console.log(flatten(arr));
 // console.log(res);
 ```
 
+12.
+
+```js
+function test(str) {
+  const res = {};
+
+  for (let i = 0; i < str.length; i++) {
+    if (str[i] === "a" || str[i] === "e" || str[i] === "i" || str[i] === "o" || str[i] === "u") continue;
+    else res[str[i]] ? res[str[i]]++ : (res[str[i]] = 1);
+  }
+
+  return res;
+}
+
+console.log(test("abcdefabcdefggghihihihihj"));
+```
+
 12. Output
 
 ```
